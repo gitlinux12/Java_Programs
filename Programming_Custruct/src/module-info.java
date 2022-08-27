@@ -1,0 +1,2 @@
+module Programming_Custruct {
+}
